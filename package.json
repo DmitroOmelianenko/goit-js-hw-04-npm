@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-hw-04-npm",
+  "version": "1.0.0",
+  "description": "Перевозимо мотоцикли із за кордону",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitroOmelianenko/goit-js-hw-04-npm.git"
+  },
+  "keywords": [
+    "moto"
+  ],
+  "author": "Dmitro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitroOmelianenko/goit-js-hw-04-npm/issues"
+  },
+  "homepage": "https://github.com/DmitroOmelianenko/goit-js-hw-04-npm#readme"
+}
